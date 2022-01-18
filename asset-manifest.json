@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a8a0596.css",
+    "main.js": "/static/js/main.8d805b5c.js",
+    "static/js/787.9ee79be3.chunk.js": "/static/js/787.9ee79be3.chunk.js",
+    "static/media/logo.png": "/static/media/logo.1d84f5bddce08fab3471.png",
+    "static/media/logo-tsp.png": "/static/media/logo-tsp.ac7d4679e4a583de0591.png",
+    "static/media/logo-head-tsp.png": "/static/media/logo-head-tsp.29ce736a02147d5ef00b.png",
+    "index.html": "/index.html",
+    "main.1a8a0596.css.map": "/static/css/main.1a8a0596.css.map",
+    "main.8d805b5c.js.map": "/static/js/main.8d805b5c.js.map",
+    "787.9ee79be3.chunk.js.map": "/static/js/787.9ee79be3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.8d805b5c.js"
+  ]
+}
